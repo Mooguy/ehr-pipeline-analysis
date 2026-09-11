@@ -1,0 +1,4 @@
+venv/
+synthea/
+*.pyc
+__pycache__/
